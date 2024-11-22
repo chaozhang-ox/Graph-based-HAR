@@ -1,6 +1,6 @@
 # Graph-based Methods for Forecasting Realized Covariances
 
-This is the README file for the project "Graph-based Methods for Forecasting Realized Covariances". It provides an overview of the project structure and instructions on how to use and contribute to the codebase.
+This is the README file for the project [Graph-based Methods for Forecasting Realized Covariances](https://academic.oup.com/jfec/advance-article/doi/10.1093/jjfinec/nbae026/7889003) published in Journal of Financial Econometrics. It provides an overview of the project structure and instructions on how to use and contribute to the codebase.
 
 ## Table of Contents
 
